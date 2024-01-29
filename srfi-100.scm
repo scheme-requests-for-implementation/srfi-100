@@ -1,3 +1,7 @@
+;;;; SPDX-FileCopyrightText: 2009 Joo ChurlSoo
+;;;;
+;;;; SPDX-License-Identifier: MIT
+
 ;;; define-lambda-object --- define-syntax
 
 (define-syntax unquote-get
